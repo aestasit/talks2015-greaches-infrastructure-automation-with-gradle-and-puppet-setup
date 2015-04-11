@@ -1,0 +1,6 @@
+
+192.168.48.10 local.application.greach.es local.petclinic.greach.es
+192.168.48.20 local.database.greach.es
+192.168.48.30 local.repository.greach.es
+
+
